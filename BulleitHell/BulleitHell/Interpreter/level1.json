@@ -1,0 +1,147 @@
+{
+  "waves": [
+    {
+      "TimeDelta": 2,
+      "EnemyType": 0,
+      "EnemyCount": 3,
+      "Speed": 1,
+      "MovementStrategy": 1,
+      "BulletStrategy": 1,
+      "Xpos": 100,
+      "Ypos": 100,
+      "StopWave": false
+    },
+    {
+      "TimeDelta": 7,
+      "EnemyType": 1,
+      "EnemyCount": 3,
+      "Speed": 0,
+      "MovementStrategy": 2,
+      "BulletStrategy": 2,
+      "Xpos": 100,
+      "Ypos": 100,
+      "StopWave": false
+    },
+    {
+      "TimeDelta": 7,
+      "EnemyType": 1,
+      "EnemyCount": 3,
+      "Speed": 0,
+      "MovementStrategy": 3,
+      "BulletStrategy": 3,
+      "Xpos": 200,
+      "Ypos": 100,
+      "StopWave": false
+    },
+    {
+      "TimeDelta": 7,
+      "EnemyType": 0,
+      "EnemyCount": 3,
+      "Speed": 0,
+      "MovementStrategy": 1,
+      "BulletStrategy": 2,
+      "Xpos": 300,
+      "Ypos": 300,
+      "StopWave": false
+    },
+    {
+      "TimeDelta": 10,
+      "EnemyType": 0,
+      "EnemyCount": 4,
+      "Speed": 0,
+      "MovementStrategy": 3,
+      "BulletStrategy": 1,
+      "Xpos": 500,
+      "Ypos": 200,
+      "StopWave": false
+    },
+    {
+      "TimeDelta": 10,
+      "EnemyType": 2,
+      "EnemyCount": 1,
+      "Speed": 0,
+      "MovementStrategy": 9,
+      "BulletStrategy": 1,
+      "Xpos": 400,
+      "Ypos": 400,
+      "StopWave": false
+    },
+    {
+      "TimeDelta": 3,
+      "EnemyType": 0,
+      "EnemyCount": 4,
+      "Speed": 0,
+      "MovementStrategy": 2,
+      "BulletStrategy": 3,
+      "Xpos": 300,
+      "Ypos": 300,
+      "StopWave": true
+    },
+    {
+      "TimeDelta": 10,
+      "EnemyType": 1,
+      "EnemyCount": 5,
+      "Speed": 0,
+      "MovementStrategy": 1,
+      "BulletStrategy": 2,
+      "Xpos": 600,
+      "Ypos": 300,
+      "StopWave": false
+    },
+    {
+      "TimeDelta": 10,
+      "EnemyType": 1,
+      "EnemyCount": 6,
+      "Speed": 0,
+      "MovementStrategy": 3,
+      "BulletStrategy": 3,
+      "Xpos": 400,
+      "Ypos": 200,
+      "StopWave": false
+    },
+    {
+      "TimeDelta": 10,
+      "EnemyType": 0,
+      "EnemyCount": 8,
+      "Speed": 0,
+      "MovementStrategy": 1,
+      "BulletStrategy": 3,
+      "Xpos": 200,
+      "Ypos": 200,
+      "StopWave": false
+    },
+    {
+      "TimeDelta": 8,
+      "EnemyType": 1,
+      "EnemyCount": 7,
+      "Speed": 0,
+      "MovementStrategy": 3,
+      "BulletStrategy": 3,
+      "Xpos": 400,
+      "Ypos": 400,
+      "StopWave": false
+    },
+    {
+      "TimeDelta": 10,
+      "EnemyType": 3,
+      "EnemyCount": 1,
+      "Speed": 0,
+      "MovementStrategy": 9,
+      "BulletStrategy": 1,
+      "Xpos": 500,
+      "Ypos": 200,
+      "StopWave": false
+    },
+    {
+      "TimeDelta": 2,
+      "EnemyType": 0,
+      "EnemyCount": 1,
+      "Speed": 0,
+      "MovementStrategy": 9,
+      "BulletStrategy": 1,
+      "Xpos": 500,
+      "Ypos": 200,
+      "StopWave": true
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+<<<<<<< HEAD
+#begin SpriteFont/BulleitHell_BulleitHell_Content_Fonts_File.spritefont
+=======
+#begin Fonts/File.spritefont
+>>>>>>> staging
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+<<<<<<< HEAD
+/build:SpriteFont/BulleitHell_BulleitHell_Content_Fonts_File.spritefont;SpriteFont/arialblack.spritefont
+
+#begin sprites/BulleitHell_BulleitHell_Content_Sprites_enemy.png
+=======
+/build:Fonts/File.spritefont;Fonts/arialblack.spritefont
+
+#begin Sprites/enemy.png
+>>>>>>> staging
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+<<<<<<< HEAD
+/build:sprites/BulleitHell_BulleitHell_Content_Sprites_enemy.png;sprites/enemy.png
+
+#begin sprites/BulleitHell_BulleitHell_Content_Sprites_missile.png
+=======
+/build:Sprites/enemy.png
+
+#begin Sprites/missile.png
+>>>>>>> staging
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+<<<<<<< HEAD
+/build:sprites/BulleitHell_BulleitHell_Content_Sprites_missile.png;sprites/missile.png
+
+#begin sprites/BulleitHell_BulleitHell_Content_Sprites_player.png
+=======
+/build:Sprites/missile.png
+
+#begin Sprites/player.png
+>>>>>>> staging
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+<<<<<<< HEAD
+/build:sprites/BulleitHell_BulleitHell_Content_Sprites_player.png;sprites/player.png
+
+#begin sprites/BulleitHell_BulleitHell_Content_Sprites_sky.png
+=======
+/build:Sprites/player.png
+
+#begin Sprites/sky.png
+>>>>>>> staging
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+<<<<<<< HEAD
+/build:sprites/BulleitHell_BulleitHell_Content_Sprites_sky.png;sprites/sky.png
+=======
+/build:Sprites/sky.png
+>>>>>>> staging
+

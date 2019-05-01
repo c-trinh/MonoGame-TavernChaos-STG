@@ -1,0 +1,39 @@
+﻿Project Vision
+
+
+Our project vision is to ultimately create a bullet hell game with a strong sense of humor to it. 
+Rather than traditional themes often inspired by anime, the bullet hell shooter will feature alcoholic theming, tying into some of the team member's love for (pun intended) Bulleit whiskey. Sprites will have themes such as varying brands, bottles, shot glasses, and the like.
+
+
+The game will start with a character, fighting various bottles (representing base enemy types).  Projectiles will be shot classes of various sizes shapes and colors to represent bullets.
+
+
+After beating the initial waves, the player will face a midboss, a bartender. The bartender is trying to prevent the player from leaving the bar without paying his tab.
+
+
+After beating this boss, a few more waves ensue before facing the final boss, the bouncer at the door. The bouncer shoots projectiles including shot glasses, pool balls, and pool sticks, and etc in attempt to prevent the player from making it through the door. 
+
+
+
+
+Chronological breakdown:
+* Player spawns in at 0:00 with 3 lives, 1 hit per life
+* First phase
+   * 2 waves of enemies, with slight reprieve between waves; each wave feeds roughly 30 seconds of enemies being spawned with a 5 - 10 second break between wave
+   * Consists of grunt enemies which have a single firing type per enemy 
+* Midboss
+   * Bartender midboss, which is slated to last roughly a minute
+   * Bartender will have multiple firing types, including conical, straight line, and (sin) wave type projectiles
+   * Midboss will have a “medium” amount of health, and have phases per health status
+   * Per health status, movement speed and projectile firing rate increases to increase difficulty
+* Second phase
+   * To increase difficulty, 2 waves of enemies, 45 seconds each with 5 - 10 second break.
+   * Follows suit similar to first wave but with increased difficulty due to length and possible density of enemies
+* Final boss
+   * Bouncer which will also last roughly a minute, give or take, based on player skill
+   * Bouncer will function like a scaled up version of the bartender, inheriting all his features, doubling health, and a new projectile type.
+   * Final projectile type will be shotgun like, shooting an initial projectile which then splits in a 360 radius of pellets from location.
+* Power Ups
+   * Power ups will be pickups based on drinks
+   * Power ups could include things like invincibility, different shooting styles, etc
+   * Power ups could have a low random drop rate from waves, and a high likelihood from boss fights and final boss stages.
