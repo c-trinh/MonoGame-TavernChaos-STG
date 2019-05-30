@@ -1,4 +1,4 @@
-# Tavern Bullet-Hell Game
+# Bullet-Hell Tavern (Monogame Framework)
 #### Software Design & Architecture | Spring 2019
 
 ## __Gameplay-Demo__:
@@ -18,5 +18,5 @@ This game project is a top-down shooter that utilizes Monogame and C# to execute
 The main character is "drunk" and stuck in a tavern-bar, his objective is to survive the wave of incoming enemies consisting of delusional living bottles (basic mob), the bartender (mid-boss) and the bouncer (final boss).
 
 ## Requirements:
-• Monogame<br />
+• Monogame 3.7.1 ([Download Link](http://www.monogame.net/downloads/))<br />
 • Visual Studios<br />
