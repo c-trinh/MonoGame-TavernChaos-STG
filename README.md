@@ -1,4 +1,4 @@
-# Bullet-Hell Tavern (Monogame Framework)
+# Tavern Chaos
 #### Software Design & Architecture | Spring 2019
 
 ## __Gameplay-Demo__:
